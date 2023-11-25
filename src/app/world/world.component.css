@@ -1,0 +1,20 @@
+table {
+  border: none;
+}
+
+#informationTable {
+  border-collapse: collapse;
+  width: 300px;
+  height: 200px;
+  background-color: bisque;
+  margin-left: 12vw;
+  margin-bottom: 10vw;
+}
+
+#informationTable th, #informationTable td {
+  border: 1px dashed black;
+  padding: 8px;
+  text-align: center;
+  width: 50%;
+  height: 40px;
+}
